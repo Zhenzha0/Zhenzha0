@@ -30,13 +30,11 @@
 
 ### 🏆 Highlights & Hackathons
 
-<!-- New: SUTD What The Hack – SilverSigma -->
+
 <details open>
   <summary><b>SUTD What The Hack 2025 — SilverSigma</b></summary>
 
   <br/>
-
-  <img src="assets/sutd-wth-silversigma.png" alt="SUTD What The Hack – SilverSigma" width="800"/>
 
   <p>
     <i>Fullstack Development</i> · Part of a team of 5 to build an AI-powered companion platform 
@@ -50,6 +48,7 @@
     </a>
   </p>
 </details>
+
 
 <details>
   <summary><b>LifeHack 2025</b> — Finalist, Best Usage of Data</summary>
