@@ -7,7 +7,7 @@ I’m **Yang Zhenzhao**, a Computer Engineering student at NUS passionate about 
 
 - **AI Engineer Intern @ Massivue (May–Aug 2025)**  
   Developed an **AI-powered workflow analysis platform** with dual AI (cloud GPT-4 + local Gemma-3B) and **interactive dashboards** in React/TypeScript + Node.js.  
-  [![Repo](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)]([https://github.com/yourusername/massivue-project](https://github.com/Zhenzha0/xceleratepro-ops-workflow-analysis-with-agent))
+  
 
 - **Data Automation Intern @ Amcor Flexibles (Feb 2024–May 2025)**  
   Automated HR & payroll tasks with **Excel VBA**, improving efficiency and compliance.  
