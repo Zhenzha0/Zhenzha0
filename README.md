@@ -32,24 +32,21 @@
 
 <!-- New: SUTD What The Hack – SilverSigma -->
 <details open>
-  <summary><b>SUTD What The Hack — SilverSigma</b> · Sep 2025</summary>
+  <summary><b>SUTD What The Hack 2025 — SilverSigma</b></summary>
 
   <br/>
 
   <img src="assets/sutd-wth-silversigma.png" alt="SUTD What The Hack – SilverSigma" width="800"/>
 
   <p>
-    <b>Full-stack Development:</b> Part of a team of 5 to build an AI-powered companion platform for seniors featuring
-    real-time avatar conversations, hobby discovery, and a secure social space.
+    <i>Fullstack Development</i> · Part of a team of 5 to build an AI-powered companion platform 
+    for seniors featuring <b>real-time avatar conversations</b>, <b>hobby discovery</b>, and a 
+    <b>secure social space</b>.
   </p>
 
   <p>
     <a href="https://github.com/Path-yang/SilverSigma">
       <img src="https://img.shields.io/badge/GitHub-SilverSigma-181717?logo=github" alt="SilverSigma Repo"/>
-    </a>
-    &nbsp;
-    <a href="https://www.yangzhenzhao.com">
-      <img src="https://img.shields.io/badge/Live-Website-000000?logo=vercel" alt="Personal Website"/>
     </a>
   </p>
 </details>
