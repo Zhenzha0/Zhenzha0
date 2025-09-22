@@ -1,8 +1,3 @@
-<!-- Hero -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineering-NUS-0A61F7?logo=google-scholar&labelColor=0B132B" alt="NUS Computer Engineering" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full-Stack%20%7C%20Data-2E8B57" alt="Focus Areas" />
-</p>
 
 <h1 align="center">Hi, I'm Yang Zhenzhao 👋</h1>
 
@@ -114,4 +109,4 @@
 
 ### 📬 Get in touch
 - Website: **<a href="https://www.yangzhenzhao.com">yangzhenzhao.com</a>**
-- GitHub: **@Path-yang**
+
