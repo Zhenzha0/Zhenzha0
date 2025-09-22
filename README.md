@@ -22,7 +22,7 @@
 
 ---
 
-### 🔭 What I’ve been building
+### 🔭 My Experiences
 - **AI Engineer Intern @ Massivue (May–Aug 2025)** — Dual-model workflow analysis (GPT-4 + local Gemma-3B), interactive dashboards (React/TS, Node).
 - **Data Automation Intern @ Amcor Flexibles (Feb 2024–May 2025)** — HR & payroll automation with Excel VBA.
 
