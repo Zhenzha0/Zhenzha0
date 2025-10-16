@@ -6,7 +6,8 @@
 
 ---
 
-### 🔭 My Experiences
+## 🔭 My Experiences
+
 - **AI Engineer Intern @ Massivue (May–Aug 2025)** — Dual-model workflow analysis (GPT-4 + local Gemma-3B), interactive dashboards (React/TS, Node).
 - **Data Automation Intern @ Amcor Flexibles (Feb 2024–May 2025)** — HR & payroll automation with Excel VBA.
 
@@ -48,9 +49,9 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
   
-#### 🧠 Programming Languages
+### 🧠 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +60,7 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-#### ⚛️ Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -68,7 +69,7 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 
-#### 💾 Hardware & Tools
+### 💾 Hardware & Tools
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0099cc?style=for-the-badge&logo=intel&logoColor=white)
@@ -78,7 +79,7 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 
 ---
 
-### 📬 Contact
+## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhenzhao-yang-6b30b2165/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertyzz02@gmail.com)
