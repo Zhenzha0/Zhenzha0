@@ -75,5 +75,8 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 
 ---
 
-### 📬 Get in touch
-- Website: **<a href="https://www.yangzhenzhao.com">yangzhenzhao.com</a>**
+### 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhenzhao-yang-6b30b2165/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertyzz02@gmail.com)
+
