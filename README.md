@@ -74,7 +74,7 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-0099cc?style=for-the-badge&logo=intel&logoColor=white)
 
-### 🛠️Tools
+### 🛠️ Other Tools
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
