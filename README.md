@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Yang Zhenzhao 👋</h1>
 
 <p align="center">
@@ -20,6 +19,22 @@
 ### 🔭 My Experiences
 - **AI Engineer Intern @ Massivue (May–Aug 2025)** — Dual-model workflow analysis (GPT-4 + local Gemma-3B), interactive dashboards (React/TS, Node).
 - **Data Automation Intern @ Amcor Flexibles (Feb 2024–May 2025)** — HR & payroll automation with Excel VBA.
+
+---
+
+### 💡 Startups/Personal Projects
+
+#### 🎬 [Gleam](https://github.com/Path-yang/GleamNote.ai) *(In Active Development)*
+A smart video clipping platform that captures key moments from YouTube, TikTok, and Instagram with AI-powered transcription and translation. Built with React (web), SwiftUI (iOS), and Kotlin (Android), Gleam lets users selectively clip video timestamps, add personal notes, and organize insights across languages—replacing overwhelming full transcripts with curated, actionable knowledge.  
+**Tech Stack:** Next.js, React Native, PostgreSQL, Whisper API, Google Translate, FFmpeg
+
+#### 🌊 [SpiraFlow.ai](https://github.com/sean6369/SpiraFlow.ai) *(In Active Development)*
+Currently collaborating on an AI-powered workflow optimization platform designed to streamline complex processes through intelligent automation and data analysis.
+
+#### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
+*Attempted submission for the NUS SoC VIP 10k grant and IDEATE hackathon*  
+Led a team of 5 to develop an AI-powered real-time safety monitoring system using existing CCTV/IP cameras to detect falls, strokes, and industrial accidents. Leveraged computer vision and machine learning to transform passive camera infrastructure into proactive safety alerts.  
+While the concept showed promise, we discovered challenges in technical scalability and deployment reliability. The project taught us critical lessons about balancing technical feasibility with real-world impact, and the importance of identifying clear differentiation and sustainable adoption paths early in product development.
 
 ---
 
@@ -109,4 +124,3 @@
 
 ### 📬 Get in touch
 - Website: **<a href="https://www.yangzhenzhao.com">yangzhenzhao.com</a>**
-
