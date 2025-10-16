@@ -1,112 +1,89 @@
-
 <h1 align="center">Hi, I'm Yang Zhenzhao 👋</h1>
 
 <p align="center">
-  Building AI-driven systems and thoughtful full-stack products.<br/>
+  I am a sophomore studying Computer Engineering in NUS. I enjoy building AI-driven systems and thoughtful full-stack products.<br/>
   <a href="https://www.yangzhenzhao.com" target="_blank"><b>🌐 Visit my website → yangzhenzhao.com</b></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Path-yang?tab=repositories">Repos</a> •
-  <a href="https://github.com/Path-yang/SilverSigma">SilverSigma</a> •
-  <a href="https://github.com/clemenong1/SigmaHealth">SigmaHealth</a> •
-  <a href="https://github.com/Path-yang/DSTA-Code-Exp-2025">DSTA BrainHack</a> •
-  <a href="https://github.com/Path-yang/Maritime-Hackathon-2025">Maritime ML</a> •
-  <a href="https://github.com/Path-yang/Hackomania_2025">Hackomania</a>
-</p>
 
 ---
 
-### 🔭 My Experiences
+## 🔭 My Experiences
+
 - **AI Engineer Intern @ Massivue (May–Aug 2025)** — Dual-model workflow analysis (GPT-4 + local Gemma-3B), interactive dashboards (React/TS, Node).
 - **Data Automation Intern @ Amcor Flexibles (Feb 2024–May 2025)** — HR & payroll automation with Excel VBA.
 
 ---
 
-### 🏆 Highlights & Hackathons
+## 💡 Startups & Personal Projects
 
+### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
+*Attempted submission for NUS SoC VIP 10k Grant & IDEATE Hackathon*  
+Developed an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time.  
+Although the project wasn’t funded, it provided valuable lessons on evaluating technical feasibility, scalability, and real-world impact.
 
-<details open>
-  <summary><b>SUTD What The Hack 2025 — SilverSigma</b></summary>
-
-  <br/>
-
-  <p>
-    <i>Fullstack Development</i> · Part of a team of 5 to build an AI-powered companion platform 
-    for seniors featuring <b>real-time avatar conversations</b>, <b>hobby discovery</b>, and a 
-    <b>secure social space</b>.
-  </p>
-
-  <p>
-    <a href="https://github.com/Path-yang/SilverSigma">
-      <img src="https://img.shields.io/badge/GitHub-SilverSigma-181717?logo=github" alt="SilverSigma Repo"/>
-    </a>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>LifeHack 2025</b> — Finalist, Best Usage of Data</summary>
-  <p>React Native app integrating real-time SG health data, GPT guidance, and community reporting.</p>
-  <a href="https://github.com/clemenong1/SigmaHealth">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="Repo"/>
-  </a>
-</details>
-
-<details>
-  <summary><b>DSTA Brainhack 2025</b> — Finalist</summary>
-  <p>AI scam detection (React Native) with URL analysis, education modules, and analytics.</p>
-  <a href="https://github.com/Path-yang/DSTA-Code-Exp-2025">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="Repo"/>
-  </a>
-</details>
-
-<details>
-  <summary><b>Maritime Hackathon 2025</b></summary>
-  <p>ML classifier (90%+ accuracy) for ship repair severity on 10k+ entries.</p>
-  <a href="https://github.com/Path-yang/Maritime-Hackathon-2025">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="Repo"/>
-  </a>
-</details>
-
-<details>
-  <summary><b>Hackomania 2025 — Interledger: Quitting Addiction Together</b></summary>
-  <p>Next.js full-stack donation platform using MySQL + Open Payments API.</p>
-  <a href="https://github.com/Path-yang/Hackomania_2025">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="Repo"/>
-  </a>
-</details>
+### 🥷 Currently working on [SpiraFlow.ai](https://github.com/sean6369/SpiraFlow.ai) and [GleamNote.ai](https://github.com/Path-yang/GleamNote.ai)
 
 ---
 
-### 🧰 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/FPGA-0099cc?logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" />
-</p>
+## 🛠️ Hackathons
+
+### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
+*Built at SUTD WHAT THE HACK*  
+A senior-focused web app (Next.js 14) featuring AI companionship with HeyGen avatars, hobby exploration, social feed, and community classes.  
+Designed with accessibility, multilingual support, and mobile optimization.
+
+### 🏥 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
+🏆 *Finalist (Top 10/60+), Best Usage of Data & Best Team for Health Theme @ NUS LifeHack 2025*  
+React Native app integrating real-time Singapore health data, GPT guidance, and community reporting for an AI-driven public health ecosystem.
+
+### 🛡️ [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
+🏆 *Finalist (Top 20/80+) @ DSTA BrainHack CodeEXP 2025*  
+React Native app using AI and community insights to detect online scams, analyze suspicious URLs, and educate users via interactive modules and analytics.
+
+### 🧩 [NoFap](https://github.com/Path-yang/Hackomania_2025)
+*Built at Hackomania 2025*  
+Modern Next.js web app that helps users track their addiction recovery journey with streaks, achievements, and community support.
+
+### ⚓ [Ship Vessel Risk Detection](https://github.com/Path-yang/Maritime-Hackathon-2025)
+🏆 *Top 3 @ Maritime Hackathon 2025*  
+Developed an NLP pipeline using DistilBERT to classify vessel deficiency severity from PSC inspection reports, including data cleaning and fine-tuning.
 
 ---
 
-### 📬 Get in touch
-- Website: **<a href="https://www.yangzhenzhao.com">yangzhenzhao.com</a>**
+## 🧰 Tech Stack
+  
+### 🧠 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+
+### 💾 Hardware 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-0099cc?style=for-the-badge&logo=intel&logoColor=white)
+
+### 🛠️ Other Tools
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhenzhao-yang-6b30b2165/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertyzz02@gmail.com)
 
