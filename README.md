@@ -49,7 +49,6 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 ---
 
 ### 🧰 Tech Stack
-<p>
   
 #### 🧠 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -76,7 +75,6 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-</p>
 
 ---
 
