@@ -19,9 +19,7 @@
 Developed an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time.  
 Although the project wasn’t funded, it provided valuable lessons on evaluating technical feasibility, scalability, and real-world impact.
 
-### 🧠 Currently Building
-[SpiraFlow.ai](https://github.com/sean6369/SpiraFlow.ai)
-[GleamNote.ai](https://github.com/Path-yang/GleamNote.ai)
+### 🥷 Currently working on [SpiraFlow.ai](https://github.com/sean6369/SpiraFlow.ai) and [GleamNote.ai](https://github.com/Path-yang/GleamNote.ai)
 
 ---
 
