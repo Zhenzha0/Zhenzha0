@@ -72,8 +72,7 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white" />
+
 </p>
 
 ---
