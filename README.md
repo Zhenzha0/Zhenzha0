@@ -3,16 +3,6 @@
 <p align="center">
   Building AI-driven systems and thoughtful full-stack products.<br/>
   <a href="https://www.yangzhenzhao.com" target="_blank"><b>🌐 Visit my website → yangzhenzhao.com</b></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Path-yang?tab=repositories">Repos</a> •
-  <a href="https://github.com/Path-yang/SilverSigma">SilverSigma</a> •
-  <a href="https://github.com/clemenong1/SigmaHealth">SigmaHealth</a> •
-  <a href="https://github.com/Path-yang/DSTA-Code-Exp-2025">DSTA BrainHack</a> •
-  <a href="https://github.com/Path-yang/Maritime-Hackathon-2025">Maritime ML</a> •
-  <a href="https://github.com/Path-yang/Hackomania_2025">Hackomania</a>
-</p>
 
 ---
 
@@ -22,75 +12,41 @@
 
 ---
 
-### 💡 Startups/Personal Projects
+## 💡 Startups & Personal Projects
 
-#### 🎬 [Gleam](https://github.com/Path-yang/GleamNote.ai) *(In Active Development)*
-A smart video clipping platform that captures key moments from YouTube, TikTok, and Instagram with AI-powered transcription and translation. Built with React (web), SwiftUI (iOS), and Kotlin (Android), Gleam lets users selectively clip video timestamps, add personal notes, and organize insights across languages—replacing overwhelming full transcripts with curated, actionable knowledge.  
-**Tech Stack:** Next.js, React Native, PostgreSQL, Whisper API, Google Translate, FFmpeg
+### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
+*Attempted submission for NUS SoC VIP 10k Grant & IDEATE Hackathon*  
+Developed an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time.  
+Although the project wasn’t funded, it provided valuable lessons on evaluating technical feasibility, scalability, and real-world impact.
 
-#### 🌊 [SpiraFlow.ai](https://github.com/sean6369/SpiraFlow.ai) *(In Active Development)*
-Currently collaborating on an AI-powered workflow optimization platform designed to streamline complex processes through intelligent automation and data analysis.
-
-#### 📷 [SentinelAI](https://github.com/Path-yang/SentinelAI) *(Failed Startup Attempt)*
-*Attempted submission for the NUS SoC VIP 10k grant and IDEATE hackathon*  
-Led a team of 5 to develop an AI-powered real-time safety monitoring system using existing CCTV/IP cameras to detect falls, strokes, and industrial accidents. Leveraged computer vision and machine learning to transform passive camera infrastructure into proactive safety alerts.  
-While the concept showed promise, we discovered challenges in technical scalability and deployment reliability. The project taught us critical lessons about balancing technical feasibility with real-world impact, and the importance of identifying clear differentiation and sustainable adoption paths early in product development.
+### 🧠 Currently Building
+- [**SpiraFlow.ai**](https://github.com/sean6369/SpiraFlow.ai)  
+- [**GleamNote.ai**](https://github.com/Path-yang/GleamNote.ai)
 
 ---
 
-### 🏆 Highlights & Hackathons
+## 🛠️ Hackathons
 
+### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
+*Built at SUTD WHAT THE HACK*  
+A senior-focused web app (Next.js 14) featuring AI companionship with HeyGen avatars, hobby exploration, social feed, and community classes.  
+Designed with accessibility, multilingual support, and mobile optimization.
 
-<details open>
-  <summary><b>SUTD What The Hack 2025 — SilverSigma</b></summary>
+### 🏥 [SigmaHealth](https://github.com/clemenong1/Sigmapore)
+🏆 *Finalist (Top 10/60+), Best Usage of Data & Best Team for Health Theme @ NUS LifeHack 2025*  
+React Native app integrating real-time Singapore health data, GPT guidance, and community reporting for an AI-driven public health ecosystem.
 
-  <br/>
+### 🛡️ [SigmaShield](https://github.com/Path-yang/DSTA-Code-Exp-2025)
+🏆 *Finalist (Top 20/80+) @ DSTA BrainHack CodeEXP 2025*  
+React Native app using AI and community insights to detect online scams, analyze suspicious URLs, and educate users via interactive modules and analytics.
 
-  <p>
-    <i>Fullstack Development</i> · Part of a team of 5 to build an AI-powered companion platform 
-    for seniors featuring <b>real-time avatar conversations</b>, <b>hobby discovery</b>, and a 
-    <b>secure social space</b>.
-  </p>
+### 🧩 [NoFap](https://github.com/Path-yang/Hackomania_2025)
+*Built at Hackomania 2025*  
+Modern Next.js web app that helps users track their addiction recovery journey with streaks, achievements, and community support.
 
-  <p>
-    <a href="https://github.com/Path-yang/SilverSigma">
-      <img src="https://img.shields.io/badge/GitHub-SilverSigma-181717?logo=github" alt="SilverSigma Repo"/>
-    </a>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>LifeHack 2025</b> — Finalist, Best Usage of Data</summary>
-  <p>React Native app integrating real-time SG health data, GPT guidance, and community reporting.</p>
-  <a href="https://github.com/clemenong1/SigmaHealth">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="Repo"/>
-  </a>
-</details>
-
-<details>
-  <summary><b>DSTA Brainhack 2025</b> — Finalist</summary>
-  <p>AI scam detection (React Native) with URL analysis, education modules, and analytics.</p>
-  <a href="https://github.com/Path-yang/DSTA-Code-Exp-2025">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="Repo"/>
-  </a>
-</details>
-
-<details>
-  <summary><b>Maritime Hackathon 2025</b></summary>
-  <p>ML classifier (90%+ accuracy) for ship repair severity on 10k+ entries.</p>
-  <a href="https://github.com/Path-yang/Maritime-Hackathon-2025">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="Repo"/>
-  </a>
-</details>
-
-<details>
-  <summary><b>Hackomania 2025 — Interledger: Quitting Addiction Together</b></summary>
-  <p>Next.js full-stack donation platform using MySQL + Open Payments API.</p>
-  <a href="https://github.com/Path-yang/Hackomania_2025">
-    <img src="https://img.shields.io/badge/GitHub-Repo-181717?logo=github" alt="Repo"/>
-  </a>
-</details>
+### ⚓ [Ship Vessel Risk Detection](https://github.com/Path-yang/Maritime-Hackathon-2025)
+🏆 *Top 3 @ Maritime Hackathon 2025*  
+Developed an NLP pipeline using DistilBERT to classify vessel deficiency severity from PSC inspection reports, including data cleaning and fine-tuning.
 
 ---
 
