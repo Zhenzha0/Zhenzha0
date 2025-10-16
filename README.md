@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yang Zhenzhao 👋</h1>
 
 <p align="center">
-  Building AI-driven systems and thoughtful full-stack products.<br/>
+  I am a sophomore studying Computer Engineering in NUS. I enjoy building AI-driven systems and thoughtful full-stack products.<br/>
   <a href="https://www.yangzhenzhao.com" target="_blank"><b>🌐 Visit my website → yangzhenzhao.com</b></a>
 
 ---
