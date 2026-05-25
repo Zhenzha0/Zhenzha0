@@ -24,6 +24,10 @@ Although the project wasn’t funded, it provided valuable lessons on evaluating
 
 ## 🛠️ Hackathons
 
+### ⚓ [PSA L2 Ops AI Co-pilot](https://github.com/Path-yang/PSA-Code-Sprint-25)
+🏆 *3rd runner-up (Top 4 out of 400+ teams), Best Team for Problem Statement 3: Redefining Level 2 Product Ops @ PSA Code Sprint 2025*  
+Part of a team of 4 that developed an AI diagnostic assistant for PSA duty officers to automate alert parsing, root cause analysis, and resolution planning with an integrated ticketing and analysis system. *(Codebase is confidential per organiser guidelines.)*
+
 ### 👴 [SilverSigma](https://github.com/Path-yang/SilverSigma)
 *Built at SUTD WHAT THE HACK*  
 A senior-focused web app (Next.js 14) featuring AI companionship with HeyGen avatars, hobby exploration, social feed, and community classes.  
