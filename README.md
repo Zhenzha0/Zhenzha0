@@ -20,8 +20,6 @@
 Developed an AI-powered safety system using CCTV/IP cameras to detect falls, strokes, and industrial accidents in real time.  
 Although the project wasn’t funded, it provided valuable lessons on evaluating technical feasibility, scalability, and real-world impact.
 
-### 🥷 Currently working on [SpiraFlow.ai](https://github.com/sean6369/SpiraFlow.ai) and [GleamNote.ai](https://github.com/Path-yang/GleamNote.ai)
-
 ---
 
 ## 🛠️ Hackathons
@@ -46,6 +44,30 @@ Modern Next.js web app that helps users track their addiction recovery journey w
 ### ⚓ [Ship Vessel Risk Detection](https://github.com/Path-yang/Maritime-Hackathon-2025)
 🏆 *Top 3 @ Maritime Hackathon 2025*  
 Developed an NLP pipeline using DistilBERT to classify vessel deficiency severity from PSC inspection reports, including data cleaning and fine-tuning.
+
+---
+
+## 🎓 School Projects
+
+### 🚨 [CG2028 – Fallen Brothers](https://github.com/Zhenzha0/Fallen-Brothers)
+*Computer Organisation*  
+Real-time fall detection system on the STM32 B-L4S5I-IOT01A board using accelerometer, gyroscope, and barometer data, with a moving-average filter implemented in ARM assembly. Triggers on-board buzzer/LED alerts and pushes notifications to Telegram via a Wi-Fi → ntfy.sh → Python bridge.
+
+### 🗂️ [CS2113 – FlowCLI](https://github.com/Zhenzha0/FlowCLI)
+*Software Engineering & Object-Oriented Programming*  
+Terminal-first task and project manager optimised for fully keyboard-driven workflows. Built on the Command pattern with project/task models, atomic-write data persistence, ASCII progress bars, and instant filter/sort/export to TXT.
+
+### 📋 [CS2113 – Zuke](https://github.com/Zhenzha0/Zuke)
+*Software Engineering & Object-Oriented Programming*  
+Fast, minimal Java CLI task manager supporting todos, deadlines, and events with flexible date/time parsing, keyword/date search, and auto save-load between sessions.
+
+### 🔁 [CS3244 – Quora Question Pairs](https://github.com/Zhenzha0/Quora-Question-Pairs)
+*Machine Learning*  
+Duplicate-question detection on the Quora Question Pairs dataset. Embedded ~500k questions with Qwen3-Embedding-4B (stored in a Zarr store, versioned via DVC), engineered pairwise features (cosine, Euclidean, lexical), and benchmarked XGBoost, CatBoost, GRU, and stacking ensembles via a reproducible Optuna-tuned experiment harness on the NUS SoC Slurm cluster.
+
+### 🎨 [CG2271 – Etch-a-Sketch MCXC](https://github.com/sean6369/etch-a-sketch-mcxc)
+*Real-Time Operating Systems*  
+FreeRTOS firmware for the NXP MCXC444 controller in an Etch-a-Sketch game. Implements shake-to-erase using MPU accelerometer motion-energy detection with a sliding-window threshold, plus I²C error recovery and compact debug telemetry.
 
 ---
 
