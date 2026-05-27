@@ -57,6 +57,10 @@ Developed an NLP pipeline using DistilBERT to classify vessel deficiency severit
 *Computer Organisation*  
 Real-time fall detection system on the STM32 B-L4S5I-IOT01A board using accelerometer, gyroscope, and barometer data, with a moving-average filter implemented in ARM assembly. Triggers on-board buzzer/LED alerts and pushes notifications to Telegram via a Wi-Fi → ntfy.sh → Python bridge.
 
+### 🤖 [CG2111A – Alex](https://github.com/Zhenzha0/Alex)
+*Engineering Principles and Practice II*  
+Search-and-rescue robotic vehicle for a simulated lunar environment. Arduino + Raspberry Pi build with LIDAR SLAM mapping (BreezySLAM + Bokeh), TCS34725 colour-sensor astronaut classification, and servo-driven claw / trapdoor mechanisms. Bare-metal AVR firmware (UART, ultrasonic, Timer 5 PWM for servos) and TLS-secured remote control from a laptop client over a mobile hotspot.
+
 ### 🗂️ [CS2113 – FlowCLI](https://github.com/Zhenzha0/FlowCLI)
 *Software Engineering & Object-Oriented Programming*  
 Terminal-first task and project manager optimised for fully keyboard-driven workflows. Built on the Command pattern with project/task models, atomic-write data persistence, ASCII progress bars, and instant filter/sort/export to TXT.
